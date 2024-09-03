@@ -1,2 +1,2 @@
 Simple 2d geometry engine.
-Project incomlete.
+Project incomplete.
